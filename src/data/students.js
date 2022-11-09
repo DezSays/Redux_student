@@ -3,28 +3,28 @@ import { v4 as uuidv4 } from 'uuid';
 let students = [
     {
         id: uuidv4(),
-        fName: "Andrew", 
+        fName: "Dezarea", 
         city: "Atlanta"
     },
     {
         id: uuidv4(),
-        fName: "Christine", 
+        fName: "Tri", 
         city: "Atlanta"
     },
     {
         id: uuidv4(),
-        fName: "Devin", 
+        fName: "Doug", 
         city: "Atlanta"
     },
     {
         id: uuidv4(),
-        fName: "Emily", 
+        fName: "Toru", 
         city: "Atlanta"
     },
     {
         id: uuidv4(),
-        fName: "Hunter", 
-        city: "Houston"
+        fName: "Wilma", 
+        city: "Etowah"
     },
     {
         id: uuidv4(),
